@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 1,
+      "title": "港超聯",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "港超联理文火并冠忠南区｜即时新闻｜体波｜on.cc东网",
+      "url": "https://hk.on.cc/hk/bkn/cnt/sport/20261106/bkn-20261106174539656-1106_00882_001_cn.html",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 2,
+      "title": "on cc",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "打擊圍標｜聯合特遣隊首次出動 拘捕28人 涉20份合約",
+      "url": "https://hk.news.yahoo.com/%E6%89%93%E6%93%8A%E5%9C%8D%E6%A8%99-%E8%81%AF%E5%90%88%E7%89%B9%E9%81%A3%E9%9A%8A%E9%A6%96%E6%AC%A1%E5%87%BA%E5%8B%95-%E6%8B%98%E6%8D%9528%E4%BA%BA-%E6%B6%8920%E4%BB%BD%E5%90%88%E7%B4%84-%E6%A5%8A%E4%BD%A9%E8%A9%A9%E5%A0%B1%E9%81%93-110924223.html",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 3,
+      "title": "david silva",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "David Silva in Hong Kong: ex-Manchester City star not ruling out Sha Tin return",
+      "url": "https://www.scmp.com/sport/football/article/3373562/david-silva-hong-kong-ex-manchester-city-star-not-ruling-out-sha-tin-return",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 4,
+      "title": "rthk",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "No casualties reported after paper product warehouse in Yuen Long hit by No. 3 alarm fire",
+      "url": "https://www.thestandard.com.hk/news/article/347772/No-casualties-reported-after-paper-product-warehouse-in-Yuen-Long-hit-by-No-3-alarm-fire",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 5,
+      "title": "claire liu",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "Liu eases past Sonmez in Hong Kong; into first semifinal of 2026",
+      "url": "https://www.wtatennis.com/videos/4605476/liu-eases-past-sonmez-in-hong-kong-into-first-semifinal-of-2026",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 6,
+      "title": "蔡天鳳",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "蔡天鳳案｜一文看進展 蔡矮小輕盈易骨折 切人中間可致卵巢連腳",
+      "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407997/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E4%B8%80%E6%96%87%E7%9C%8B%E9%80%B2%E5%B1%95-%E8%94%A1%E7%9F%AE%E5%B0%8F%E8%BC%95%E7%9B%88%E6%98%93%E9%AA%A8%E6%8A%98-%E5%88%87%E4%BA%BA%E4%B8%AD%E9%96%93%E5%8F%AF%E8%87%B4%E5%8D%B5%E5%B7%A2%E9%80%A3%E8%85%B3",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 7,
+      "title": "容祖兒演唱會",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "容祖兒啟德騷11.9起優先搶飛 難忘18歲舊機場最後一夜起飛",
+      "url": "https://www.stheadline.com/film-drama/3634542/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E9%A8%B7119%E8%B5%B7%E5%84%AA%E5%85%88%E6%90%B6%E9%A3%9B-%E9%9B%A3%E5%BF%9818%E6%AD%B2%E8%88%8A%E6%A9%9F%E5%A0%B4%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A4%9C%E8%B5%B7%E9%A3%9B",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "網絡",
+      "category": "熱搜",
+      "rank": 8,
+      "title": "伊朗",
+      "metric": "熱搜話題",
+      "metric_kind": "搜尋熱度",
+      "note": "美伊談判傳進展！川普稱伊朗有意達成協議、荷姆茲海峽接連遇襲升高緊張",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%82%B3%E9%80%B2%E5%B1%95-%E5%B7%9D%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%9C%89%E6%84%8F%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%8E%A5%E9%80%A3%E9%81%87%E8%A5%B2%E5%8D%87%E9%AB%98%E7%B7%8A%E5%BC%B5-065624897.html",
+      "source": "Google Trends HK 即時熱搜（自動抓取）"
+    },
     {
       "date": "2026-11-06",
       "platform": "網絡",
